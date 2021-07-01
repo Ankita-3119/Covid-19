@@ -1,1 +1,1 @@
-# Covid-19
+Integrated login register page with confirmation mail to registered user
